@@ -1,0 +1,1 @@
+sqlalchemy-migrate or alembic for better SQL dialect conversion, or use sqlparse for parsing and sqlglot for cross-database SQL translation
