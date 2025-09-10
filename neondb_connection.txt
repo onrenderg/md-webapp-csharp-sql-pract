@@ -1,0 +1,9 @@
+PostgreSQL Neon Database Connection Details:
+
+Database: neondb
+Owner: neondb_owner
+Password: npg_v1OyZH2zWhpR
+Host: ep-blue-sun-a1569nuo-pooler.ap-southeast-1.aws.neon.tech
+Connection String: postgresql://neondb_owner:npg_v1OyZH2zWhpR@ep-blue-sun-a1569nuo-pooler.ap-southeast-1.aws.neon.tech/neondb
+
+Note: Keep this file secure as it contains sensitive database credentials.
